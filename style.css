@@ -1,0 +1,17 @@
+html body {
+    width: auto;
+    height: 100%;
+    background-color: antiquewhite;
+}
+li {
+    margin: 20px;
+    text-align: center;
+}
+li a {
+    text-decoration: none;
+    color: black;
+}
+
+
+   
+
